@@ -27,3 +27,7 @@ Our swarm displays a coordinated, parallel state-based operation resulting in de
 In the future, given more time, we would work to refine our April tag detection, implementing more control-based  logic for precise positioning. We would also build on the previously mentioned, role-assignment procedure so that each bot is fully autonomous and aware of its position in the stack. We would, perhaps, also expand on the navigation aspect, using computer visualization and accelerometry to map out the landscape of the unknown surface. Finally, we would also create some method for the robots to autonomously stack themselves, starting on the same elevation.
 
 Our multi-layer, stackable swarm system opens up numerous applications in surveying, search and rescue (SAR), warehouse operations, and beyond, where each robot disperses, performs their task, regroups, and returns back with a meshed dataset from each of their individual ventures. Ultimately, our swarm would provide users the capabilities to do what has previously been too challenging or inaccessible.
+
+# **Links**
+Full demo video: https://drive.google.com/file/d/1CRqhzQtFp7dnBnA8Vf5r17e3jlT65QNt/view?usp=drive_link 
+Restacking demo video: https://drive.google.com/file/d/1iocgk28Fq7gxm-3mMfZQ-_hEI1nxBUSk/view?usp=drive_link
