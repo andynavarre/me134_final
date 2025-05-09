@@ -1,5 +1,3 @@
-# me134_final
-
 # Multi-Robot Swarm Behavior with MQTT & AprilTag Vision
 
 This repository contains the code and instructions to deploy a coordinated multi-robot system composed of three robots: `BASE`, `MIDDLE`, and `TOP`. The robots communicate via MQTT, align using AprilTags, and execute a sequence of collaborative tasks based on their assigned roles.
