@@ -591,7 +591,7 @@ def handle_top_behavior():
     if top_state == TOP_STATE_WAIT_FOR_START:
         if not top_starting:
             while not board.is_button_pressed():
-                time.sleep(0) # unsure how to just make this run until button is pressed, while also still going through main loop
+                time.sleep(0) 
                 
             top_starting = True
             #client.publish(MQTT_COMMAND_TOPIC, "TOP_BUTTON_PRESSED") GROUND BOT DOESNT CARE YET
@@ -604,7 +604,7 @@ def handle_top_behavior():
         """Process is manual for now, just need to press button when done stacking."""
         if not top_ready:
             while not board.is_button_pressed():
-                time.sleep(0) # unsure how to just make this run until button is pressed, while also still going through main loop
+                time.sleep(0) 
                 
             top_ready = True
             client.publish(MQTT_COMMAND_TOPIC, "TOP_BUTTON_PRESSED") # Tell base bot that stacking is complete
