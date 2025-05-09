@@ -25,7 +25,7 @@ This repository contains the code and instructions to deploy a coordinated multi
   - `XRPLib`
   - `HuskyLensLibrary`
 
-## 🚀 Setup Instructions
+##  Setup Instructions
 
 
 
